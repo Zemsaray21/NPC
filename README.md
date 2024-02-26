@@ -1,0 +1,2 @@
+# NPC
+tea testnet
